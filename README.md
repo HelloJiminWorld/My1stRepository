@@ -1,5 +1,5 @@
 <p>
-<h1>&lt;What I Learned Today&gt;</h1>
+<h1 sytle="color:blue">&lt;What I Learned Today&gt;</h1>
 </p>
 <p><b>1.</b> How to install and setup &quot;Visual Studio Code &amp; Git&quot;</p>
 <p><b>2.</b> Special characters for examples&#44; &#191;Hola, World&#63;</p>
