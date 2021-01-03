@@ -6,3 +6,7 @@
 <p>
 2. Special characters for examples&#44; &#191;Hola, World&#63;
 </p>
+<p>
+Copy on Git Bash&#58; Ctrl&#43;Insert
+Paste on Git Bash&#58; Shift&#43;Insert
+</P>
