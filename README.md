@@ -4,5 +4,5 @@
 1. How to install and setup &quot;Visual Studio Code &amp; Git&quot;
 <br />
 <p>
-2. Special Characters for an example&#44; &#191;Hola, World&#63;
+2. Special characters for examples&#44; &#191;Hola, World&#63;
 </p>
