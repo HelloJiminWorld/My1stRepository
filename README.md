@@ -4,7 +4,7 @@
 <p><b>2.</b> Special characters for examples&#44; &#191;Hola, World&#63;</p>
 <p><b>3.</b> Copy on Git Bash&#58; Ctrl&#43;Insert<br>
 &ensp;&ensp;Paste on Git Bash&#58; Shift&#43;Insert</p>
-<p><h2>&lt;What is going on&gt;</h2></p>
+<p><h1>&lt;What is going on&gt;</h1></p>
 <br />
 <p>20210105</p>
 <b>1.</b> remote rejected on Git. Push declined due to email privacy restrictions.
