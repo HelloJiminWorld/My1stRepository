@@ -5,3 +5,4 @@
 <p><b>2.</b> Special characters for examples&#44; &#191;Hola, World&#63;</p>
 <p><b>3.</b> Copy on Git Bash&#58; Ctrl&#43;Insert<br>
 &ensp;&ensp;Paste on Git Bash&#58; Shift&#43;Insert</p>
+<p><b>4.</b> remote rejected on Git. push declined due to email privacy restrictions.</p>
