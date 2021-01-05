@@ -7,4 +7,4 @@
 <p><h1>&lt;What is going on&gt;</h1></p>
 <br />
 <p><b>20210105</b></p>
-<b>1.</b> Remote rejected on Git. Push declined due to email privacy restrictions. _done
+<b>1.</b> Remote rejected on Git. Push declined due to email privacy restrictions. - done
