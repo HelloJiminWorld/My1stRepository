@@ -7,4 +7,4 @@
 <p><h2>&lt;What is going on&gt;</h2></p>
 <br />
 <p>202105</p>
-<b>1.</b> remote rejected on Git. push declined due to email privacy restrictions.
+<b>1.</b> remote rejected on Git. Push declined due to email privacy restrictions.
