@@ -5,4 +5,4 @@
 &ensp;&ensp;Paste on Git Bash&#58; Shift&#43;Insert</p>
 <p><h2>&lt;What is going on&gt;</h2></p>
 <br />
-<b>4.</b> remote rejected on Git. push declined due to email privacy restrictions.
+<b>1.</b> remote rejected on Git. push declined due to email privacy restrictions.
