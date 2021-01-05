@@ -6,5 +6,5 @@
 &ensp;&ensp;Paste on Git Bash&#58; Shift&#43;Insert</p>
 <p><h2>&lt;What is going on&gt;</h2></p>
 <br />
-<p>202105</p>
+<p>20210105</p>
 <b>1.</b> remote rejected on Git. Push declined due to email privacy restrictions.
