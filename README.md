@@ -6,7 +6,10 @@
 &ensp;&ensp;Paste on Git Bash&#58; Shift&#43;Insert</p>
 <p><b>20210105</b></p>
 <p><b>4.</b> How to git push without showing my email account. Thanks for the noreply email account.</p>
+<p><b>20210106</b></p>
+<p><b>5.</b> Section 3 HTML The Essentials from The Web Developer Bootcamp 2021</p>
 <p><h1>&lt;What is going on&gt;</h1></p>
 <br />
 <p><b>20210105</b></p>
 <b>1.</b> Remote rejected on Git. Push declined due to email privacy restrictions. _done
+
