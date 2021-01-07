@@ -9,7 +9,7 @@
 <p><b>20210106</b></p>
 <p><b>5.</b> Section 3 HTML The Essentials from The Web Developer Bootcamp 2021 on Udemy</p>
 <p><b>20210107</b></p>
-<p><b>6.</b> Secton 3 27. VSCode Tip: Auto-format </p>
+<p><b>6.</b> Secton 3 27. VSCode Tip: Auto-format - Sadly this wasn't working. So I need to download Prettier</p>
 <p><h1>&lt;What is going on&gt;</h1></p>
 <br />
 <p><b>20210105</b></p>
