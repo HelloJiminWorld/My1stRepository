@@ -15,4 +15,4 @@
 <p><b>20210105</b></p>
 <p><b>1.</b> Remote rejected on Git. Push declined due to email privacy restrictions. _done </p>
 <p><b>20210107</b></p>
-<p><b>2.</b> I need to download https://prettier.io/docs/en/install.html for VS Code </p>
+<p><b>2.</b> I need to download https://prettier.io/docs/en/install.html for Auto-format on VS Code </p>
