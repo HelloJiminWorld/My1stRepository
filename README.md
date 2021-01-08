@@ -20,4 +20,4 @@
 <p><b>20210107</b></p>
 <p><b>2.</b> I need to download https://prettier.io/docs/en/install.html for Auto-format on VS Code _done</p>
 <p><b>20210107</b></p>
-<p><b>3.</b> When I install Prettier, Extensions - Search Prettier - Settings - Formatter - <b>Default Formatter as Prettier</b> - However I still can't see Prettier in settings even though it's enabled<p>
+<p><b>3.</b> When I install Prettier, Extensions - Search Prettier - Settings - Formatter - <b>Default Formatter as Prettier</b> - However I still can't see Prettier in settings even though it's enabled - So I uninstall and made it enabled again. Finally I can see Prettier as Extensions in VS Code _done </p>
