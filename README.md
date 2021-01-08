@@ -11,10 +11,12 @@
 <p><b>20210107</b></p>
 <p><b>6.</b> Secton 3 27. VSCode Tip: Auto-format - Sadly this wasn't working. So I need to download Prettier</p>
 <p><b>20210108</b></p>
-<p><b>7.</b> When I install Prettier, Extensions - Search Prettier - Settings - Formatter - <b>Default Formatter as Prettier</b><p>
+
 <p><h1>&lt;What is going on&gt;</h1></p>
 <br />
 <p><b>20210105</b></p>
 <p><b>1.</b> Remote rejected on Git. Push declined due to email privacy restrictions. _done </p>
 <p><b>20210107</b></p>
 <p><b>2.</b> I need to download https://prettier.io/docs/en/install.html for Auto-format on VS Code </p>
+<p><b>20210107</b></p>
+<p><b>3.</b> When I install Prettier, Extensions - Search Prettier - Settings - Formatter - <b>Default Formatter as Prettier</b> - However I still can't see Prettier in settings even though it's enabled<p>
