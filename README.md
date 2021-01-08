@@ -11,6 +11,7 @@
 <p><b>20210107</b></p>
 <p><b>6.</b> Secton 3 27. VSCode Tip: Auto-format - Sadly this wasn't working. So I need to download Prettier</p>
 <p><b>20210108</b></p>
+<p><b>7.</b> How to install extentions. I thought I needed to type codes in VSCode.</p>
 
 <p><h1>&lt;What is going on&gt;</h1></p>
 <br />
