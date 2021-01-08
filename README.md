@@ -19,5 +19,5 @@
 <p>done<b>1.</b> Remote rejected on Git. Push declined due to email privacy restrictions.</p>
 <p><b>20210107</b></p>
 <p>done<b>2.</b> I need to download https://prettier.io/docs/en/install.html for Auto-format on VS Code</p>
-<p><b>20210107</b></p>
+<p><b>20210108</b></p>
 <p>done<b>3.</b> When I install Prettier, Extensions - Search Prettier - Settings - Formatter - <b>Default Formatter as Prettier</b> - However I still can't see Prettier in settings even though it's enabled - So I uninstall and made it enabled again. Finally I can see Prettier as Extensions in VS Code</p>
