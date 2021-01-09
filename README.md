@@ -25,6 +25,6 @@
 <p>done_<b>3.</b> When I install Prettier, Extensions - Search Prettier - Settings - Formatter - <b>Default Formatter as Prettier</b> - However I still can't see Prettier in settings even though it's enabled - So I uninstall and made it enabled again. Finally I can see Prettier as Extensions in VS Code</p>
 <p><b>4.</b> I need to make Prettier works.</p>
 <p><b>20210109</b></p>
-<p>Prettier v5.8.0 on my VS code is unable to format HTML (yet). </P>
+<p><p><b>5.</b> Prettier v5.8.0 on my VS code is unable to format HTML (yet). </P>
 
 
