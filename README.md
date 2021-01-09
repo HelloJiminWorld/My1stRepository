@@ -12,6 +12,8 @@
 <p><b>6.</b> Secton 3 27. VSCode Tip: Auto-format - Sadly this wasn't working. So I need to download Prettier</p>
 <p><b>20210108</b></p>
 <p><b>7.</b> How to install extentions. I thought I needed to type codes in VSCode.</p>
+<p><b>20210109</b></p>
+<p><b>8.</b> The way to make Prettier works - How can I open 'settings.json' - Settings - 1st icon of top right - 
 
 <p><h1>&lt;What is going on&gt;</h1></p>
 <br />
@@ -22,3 +24,4 @@
 <p><b>20210108</b></p>
 <p>done_<b>3.</b> When I install Prettier, Extensions - Search Prettier - Settings - Formatter - <b>Default Formatter as Prettier</b> - However I still can't see Prettier in settings even though it's enabled - So I uninstall and made it enabled again. Finally I can see Prettier as Extensions in VS Code</p>
 <p><b>4.</b> I need to make Prettier works.</p>
+
