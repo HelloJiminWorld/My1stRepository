@@ -16,7 +16,7 @@
 <p><b>8.</b> Still on the way to make Prettier works - How can I open 'settings.json' - Settings - 1st icon of top right (Open Settins UI) <b>or</b> Settings - html (If I only want to use it on html?) - Click Edit in settings.json </p>
 <p><b>20210110</b></p>
 <p><b>9.</b> Shift+Alt+Arrow down/up - I can duplicate the sentence where my cursor is </p>
-<p><b>10.</b> https://developer.mozilla.org/ko/docs/Web/HTML/Element/li &lt;ul&gt;, &lt;ol&gt;, &lt;li&gt; </p>
+<p><b>10.</b> https://developer.mozilla.org/ko/docs/Web/HTML/Element/li &lt;ul&gt;, &lt;ol&gt;, &lt;li&gt; The Web Developer Bootcamp 2021 Lecture 28</p>
 
 <p><h1>&lt;What is going on&gt;</h1></p>
 <br />
