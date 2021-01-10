@@ -13,9 +13,10 @@
 <p><b>20210108</b></p>
 <p><b>7.</b> How to install extentions. I thought I needed to type codes in VSCode.</p>
 <p><b>20210109</b></p>
-<p><b>8.</b> Still on the way to make Prettier works - How can I open 'settings.json' - Settings - 1st icon of top right (Open Settins UI) <b>or</b> Settings - html (If I only want to use it on html?) - Click Edit in settings.json 
+<p><b>8.</b> Still on the way to make Prettier works - How can I open 'settings.json' - Settings - 1st icon of top right (Open Settins UI) <b>or</b> Settings - html (If I only want to use it on html?) - Click Edit in settings.json </p>
 <p><b>20210110</b></p>
-<p><b>9.</b> Shift+Alt+Arrow down/up - I can duplicate the sentence where my cursor is
+<p><b>9.</b> Shift+Alt+Arrow down/up - I can duplicate the sentence where my cursor is </p>
+<p><b>10.</b> https://developer.mozilla.org/ko/docs/Web/HTML/Element/li <ul><ol><li></p>
 
 <p><h1>&lt;What is going on&gt;</h1></p>
 <br />
