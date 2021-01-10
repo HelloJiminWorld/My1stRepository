@@ -19,7 +19,7 @@
 <p><b>10.</b> https://developer.mozilla.org/ko/docs/Web/HTML/Element/li &lt;ul&gt; = unordered list, &lt;ol&gt;= ordered list, &lt;li&gt; = use it in between of ul or ol. The Web Developer Bootcamp 2021 Lecture 28. I can make another &lt;ul&gt; inside &lt;li&gt. </p>
 <p><b>11.</b> Achor tag &lt;a href=""&gt;&lt;&sol;a&gt;</p>
 <p><b>12.</b> Image embed element &lt;img src=""&gt; <b>BTW</b> it seems png file doesn't work but jpeg. <b>FYI</b>&lt;img src="" alt=""&gt; If I add type something next to the alt, when the actual picture source is wrong, the info in alt is shown.</p> 
-<p><b>13.</b> The Web Developer Bootcamp 2021 Lesson 31 Comments in html on VS Code &lt;!--  --&gt; </p> 
+<p><b>13.</b> The Web Developer Bootcamp 2021 Lesson 31 Comments in html on VS Code <b> &lt;!--  --&gt; </b></p> 
 
 
 <p><h1>&lt;What is going on&gt;</h1></p>
