@@ -17,6 +17,7 @@
 <p><b>20210110</b></p>
 <p><b>9.</b> Shift+Alt+Arrow down/up - I can duplicate the sentence where my cursor is </p>
 <p><b>10.</b> https://developer.mozilla.org/ko/docs/Web/HTML/Element/li &lt;ul&gt; = unordered list, &lt;ol&gt;= ordered list, &lt;li&gt; = use it in between of ul or ol. The Web Developer Bootcamp 2021 Lecture 28. I can make another &lt;ul&gt; inside &lt;li&gt. </p>
+<p><b>11.</b> Achor tag <a href=""></a>
 
 <p><h1>&lt;What is going on&gt;</h1></p>
 <br />
