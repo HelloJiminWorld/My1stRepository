@@ -20,7 +20,8 @@
 <p><b>11.</b> Achor tag &lt;a href=""&gt;&lt;&sol;a&gt;</p>
 <p><b>12.</b> Image embed element &lt;img src=""&gt; <b>BTW</b> it seems png file doesn't work but jpeg. <b>FYI</b>&lt;img src="" alt=""&gt; If I add type something next to the alt, when the actual picture source is wrong, the info in alt is shown.</p> 
 <p><b>13.</b> The Web Developer Bootcamp 2021 Lesson 31 Comments in html on VS Code &lt;!--  --&gt;</p> 
-
+<p><b>20210112</b></p>
+<p><b>13.</b> settings.json supposed to have one file only one object with all the properties. Thanks for the help from Louli from Udemy from The Web Developer Bootcamp 2021, I learned something new! 
 
 <p><h1>&lt;What is going on&gt;</h1></p>
 <br />
@@ -30,9 +31,9 @@
 <p>done_<b>2.</b> I need to download https://prettier.io/docs/en/install.html for Auto-format on VS Code</p>
 <p><b>20210108</b></p>
 <p>done_<b>3.</b> When I install Prettier, Extensions - Search Prettier - Settings - Formatter - <b>Default Formatter as Prettier</b> - However I still can't see Prettier in settings even though it's enabled - So I uninstall and made it enabled again. Finally I can see Prettier as Extensions in VS Code</p>
-<p><b>4.</b> I need to make Prettier works.</p>
+<p>done_<b>4.</b> I need to make Prettier works.</p>
 <p><b>20210109</b></p>
-<p><b>5.</b> Prettier v5.8.0 on my VS code is unable to format HTML (yet). So I left a question on the Udemy. I couldn't make it yet with info from Stackoverflow either.</P>
-<p><b>20210111</b></p>
+<p>done_<b>5.</b> Prettier v5.8.0 on my VS code is unable to format HTML (yet). So I left a question on the Udemy. I couldn't make it yet with info from Stackoverflow either.</P>
+<p>done_<b>20210111</b></p>
 <p><b>6.</b> How to make Prettier works on VS Code. I checked on HTML>Format:Enable & Format On Save as well.
 
