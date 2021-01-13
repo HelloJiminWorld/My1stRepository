@@ -23,7 +23,7 @@
 <p><b>20210112</b></p>
 <p><b>14.</b> settings.json supposed to have one file only one object with all the properties. Thanks for the help from Louli from Udemy from The Web Developer Bootcamp 2021, I learned something new! 
 <p><b>20210113</b></p>
-<p><b>15.</b> HTML vs HTML4-5
+<p><b>15.</b> HTML vs HTML4-5 / https://html.spec.whatwg.org/
 
 <p><h1>&lt;What is going on&gt;</h1></p>
 <br />
