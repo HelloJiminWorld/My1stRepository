@@ -38,4 +38,5 @@
 <p>done_<b>5.</b> Prettier v5.8.0 on my VS code is unable to format HTML (yet). So I left a question on the Udemy. I couldn't make it yet with info from Stackoverflow either.</P>
 <p><b>20210111</b></p>
 <p>done_<b>6.</b> How to make Prettier works on VS Code. I checked on HTML>Format:Enable & Format On Save as well.
-
+<p><b>20210113</b></p>
+<p><b>7.</b> I need to download Atom. Still downloading. Somehow internet speed is 130 Mbps so I'm going to sleep now first. The Complete 2021 Web Development Bootcamp aka CWB lecture 8 2:22
