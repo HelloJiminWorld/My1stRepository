@@ -21,7 +21,9 @@
 <p><b>12.</b> Image embed element &lt;img src=""&gt; <b>BTW</b> it seems png file doesn't work but jpeg. <b>FYI</b>&lt;img src="" alt=""&gt; If I add type something next to the alt, when the actual picture source is wrong, the info in alt is shown.</p> 
 <p><b>13.</b> The Web Developer Bootcamp 2021 Lesson 31 Comments in html on VS Code &lt;!--  --&gt;</p> 
 <p><b>20210112</b></p>
-<p><b>13.</b> settings.json supposed to have one file only one object with all the properties. Thanks for the help from Louli from Udemy from The Web Developer Bootcamp 2021, I learned something new! 
+<p><b>14.</b> settings.json supposed to have one file only one object with all the properties. Thanks for the help from Louli from Udemy from The Web Developer Bootcamp 2021, I learned something new! 
+<p><b>20210113</b></p>
+<p><b>15.</b> HTML vs HTML4-5
 
 <p><h1>&lt;What is going on&gt;</h1></p>
 <br />
