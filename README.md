@@ -25,7 +25,10 @@
 <p><b>20210113</b></p>
 <p><b>15.</b> HTML vs HTML4-5 / https://html.spec.whatwg.org/
 <p><b>20210114</b></p>
-<p><b>16.</b>The Complete 2021 Web Development Bootcamp Lecture 8-9. Finished setting Atom
+<p><b>16.</b>The Complete 2021 Web Development Bootcamp Lecture 8-9. Finished setting Atom // https://techcrunch.com/ 
+<p><b>20210115</b></p>
+<p><b>17.</b>The Complete 2021 Web Development Bootcamp Lecture 10-11. 
+<p><b>18.</b>T https://codepen.io/pen/  , https://devdocs.io/ , https://developer.mozilla.org/ko/ , https://www.w3schools.com/
 
 <p><h1>&lt;What is going on&gt;</h1></p>
 <br />
