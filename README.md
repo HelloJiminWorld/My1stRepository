@@ -27,11 +27,11 @@
 <p><b>20210114</b></p>
 <p><b>16.</b>The Complete 2021 Web Development Bootcamp Lecture 8-9. Finished setting Atom // https://techcrunch.com/ 
 <p><b>20210115</b></p>
-<p><b>17.</b>The Complete 2021 Web Development Bootcamp Lecture 10-11. 
+<p><b>17.</b> The Complete 2021 Web Development Bootcamp Lecture 10-11. 
 <p><b>18.</b> https://codepen.io/pen/  , https://devdocs.io/ , https://developer.mozilla.org/ko/ , https://www.w3schools.com/
-<p><b>19.</b>The Complete 2021 Web Development Bootcamp Lecture 12-13.
-<p><b>20.</b>https://web.archive.org/  
-<br>
+<p><b>20210116</b></p>
+<p><b>19.</b> The Complete 2021 Web Development Bootcamp Lecture 12-13.
+<p><b>20.</b> https://web.archive.org/  
 
 <p><h1>&lt;What is going on&gt;</h1></p>
 <br />
