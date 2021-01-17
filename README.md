@@ -32,6 +32,9 @@
 <p><b>20210116</b></p>
 <p><b>19.</b> The Complete 2021 Web Development Bootcamp Lecture 12-13.
 <p><b>20.</b> https://web.archive.org/  
+<p><b>20210117</b></p>
+<p><b>21.</b> The Complete 2021 Web Development Bootcamp Lecture 14.
+<p><b>22.</b> https://unicode-table.com/en/ , https://docs.emmet.io/cheat-sheet/
 
 <p><h1>&lt;What is going on&gt;</h1></p>
 <br />
