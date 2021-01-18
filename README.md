@@ -56,4 +56,4 @@
 <p><b>20210117</b></p>
 <p><b>8.</b> Let's watch at least 1 around of both HTML lectures on Udemy and try to structure website!
 <p><b>20210118</b></p>
-<p><b>9.</b> Let's read to increase back ground knowledge https://developer.mozilla.org/ko/docs/Web/HTML/Element/strong
+<p>done_<b>9.</b> Let's read to increase back ground knowledge https://developer.mozilla.org/ko/docs/Web/HTML/Element/strong
