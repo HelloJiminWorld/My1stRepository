@@ -35,6 +35,8 @@
 <p><b>20210117</b></p>
 <p><b>21.</b> The Complete 2021 Web Development Bootcamp Lecture 14. Auto-Basic structure of HTML5 on Atom, Location of folder - make a new file inside - made 'index.html'
 <p><b>22.</b> https://unicode-table.com/en/ / https://docs.emmet.io/cheat-sheet/
+<p><b>20210118</b></p>
+<p><b>23.</b> The Complete 2021 Web Development Bootcamp Lecture 15. How to Structure Text in HTML. Questioned about the different font style.
 
 <p><h1>&lt;What is going on&gt;</h1></p>
 <br />
