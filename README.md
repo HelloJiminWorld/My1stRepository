@@ -53,3 +53,5 @@
 <p>done_<b>7.</b> I need to download Atom. Still downloading. Somehow internet speed is 130 Mbps so I'm going to sleep now first. The Complete 2021 Web Development Bootcamp aka CWB lecture 8 2:22
 <p><b>20210117</b></p>
 <p><b>8.</b> Let's watch at least 1 around of both HTML lectures on Udemy and try to structure website!
+<p><b>20210118</b></p>
+<p><b>9.</b> Let's read to increase back ground knowledge https://developer.mozilla.org/ko/docs/Web/HTML/Element/strong
