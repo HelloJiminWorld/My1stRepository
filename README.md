@@ -37,6 +37,8 @@
 <p><b>22.</b> https://unicode-table.com/en/ / https://docs.emmet.io/cheat-sheet/
 <p><b>20210118</b></p>
 <p><b>23.</b> The Complete 2021 Web Development Bootcamp Lecture 15. How to Structure Text in HTML. Questioned about the different font style.
+<p><b>20210119</b></p>
+<p><b>24.</b> The Complete 2021 Web Development Bootcamp Lecture 16. HTML Lists (The same content with no.10)
 
 <p><h1>&lt;What is going on&gt;</h1></p>
 <br />
