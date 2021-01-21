@@ -41,6 +41,8 @@
 <p><b>24.</b> The Complete 2021 Web Development Bootcamp Lecture 16. HTML Lists (The same content with no.10)
 <p><b>20210120</b></p>
 <p><b>25.</b> The Complete 2021 Web Development Bootcamp Lecture 17. <img src="" alt="">
+<p><b>20210121</b></p>
+<p><b>26.</b> The Complete 2021 Web Development Bootcamp Lecture 18. HTML Links and Anchor Tags
 
 <p><h1>&lt;What is going on&gt;</h1></p>
 <br />
