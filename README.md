@@ -43,7 +43,9 @@
 <p><b>25.</b> The Complete 2021 Web Development Bootcamp Lecture 17. <img src="" alt="">
 <p><b>20210121</b></p>
 <p><b>26.</b> The Complete 2021 Web Development Bootcamp Lecture 18. HTML Links and Anchor Tags 19. How to Ace this Course
-
+<p><b>20210122</b></p>
+<p><b>26.</b> The Complete 2021 Web Development Bootcamp Lecture 20. HTML Tables
+  
 <p><h1>&lt;What is going on&gt;</h1></p>
 <br />
 <p><b>20210105</b></p>
@@ -63,3 +65,5 @@
 <p><b>8.</b> Let's watch at least 1 around of both HTML lectures on Udemy and try to structure website!
 <p><b>20210118</b></p>
 <p>done_<b>9.</b> Let's read to increase back ground knowledge https://developer.mozilla.org/ko/docs/Web/HTML/Element/strong
+<p><b>20210122</b></p> 
+<p><b>10.</b> Let's go a bit more deep into HTML Tables 
