@@ -44,7 +44,7 @@
 <p><b>20210121</b></p>
 <p><b>26.</b> The Complete 2021 Web Development Bootcamp Lecture 18. HTML Links and Anchor Tags 19. How to Ace this Course
 <p><b>20210122</b></p>
-<p><b>26.</b> The Complete 2021 Web Development Bootcamp Lecture 20. HTML Tables
+<p><b>27.</b> The Complete 2021 Web Development Bootcamp Lecture 20. HTML Tables
   
 <p><h1>&lt;What is going on&gt;</h1></p>
 <br />
