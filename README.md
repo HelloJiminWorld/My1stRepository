@@ -47,7 +47,10 @@
 <p><b>27.</b> The Complete 2021 Web Development Bootcamp Lecture 20. HTML Tables
 <p><b>20210123</b></p>
 <p><b>28.</b> The Complete 2021 Web Development Bootcamp Lecture 20. HTML Tables - 21. Using HTML Tables for Layout
-
+<p><b>20210124</b></p>
+<p><b>29.</b> The Complete 2021 Web Development Bootcamp Lecture 22. HHTML Tables Code Challenge - 23. How to Type Emojis
+On Mac: Command + Control + Space
+On Windows: Method 1: Access Emoji in Windows 10 Using On-Screen Keyboard, Method 2: Access Emoji in Windows 10 Using Keyboard Shortcut WIN + ; 
   
 <p><h1>&lt;What is going on&gt;</h1></p>
 <br />
