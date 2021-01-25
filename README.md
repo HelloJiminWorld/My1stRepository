@@ -52,7 +52,7 @@
 <p>On Mac: Command + Control + Space
 On Windows: Method 1: Access Emoji in Windows 10 Using On-Screen Keyboard, Method 2: Access Emoji in Windows 10 Using Keyboard Shortcut WIN + ; </p>
 <p><b>20210125</b></p>
-<p><b>30.</b> he Complete 2021 Web Development Bootcamp Lecture 24. HTML Tables Solution Walkthrough
+<p><b>30.</b> The Complete 2021 Web Development Bootcamp Lecture 24. HTML Tables Solution Walkthrough
   
 <p><h1>&lt;What is going on&gt;</h1></p>
 <br />
