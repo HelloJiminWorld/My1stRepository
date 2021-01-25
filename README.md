@@ -74,4 +74,4 @@ On Windows: Method 1: Access Emoji in Windows 10 Using On-Screen Keyboard, Metho
 <p><b>20210118</b></p>
 <p>done_<b>9.</b> Let's read to increase back ground knowledge https://developer.mozilla.org/ko/docs/Web/HTML/Element/strong
 <p><b>20210122</b></p> 
-<p>done_<b>10.</b> Let's go a bit more deep into HTML Tables 
+<p><b>10.</b> Let's go a bit more deep into HTML Tables https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table
