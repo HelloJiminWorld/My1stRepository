@@ -55,7 +55,8 @@ On Windows: Method 1: Access Emoji in Windows 10 Using On-Screen Keyboard, Metho
 <p><b>30.</b> The Complete 2021 Web Development Bootcamp Lecture 24. HTML Tables Solution Walkthrough
 <p><b>20210126</b></p>
 <p><b>31.</b> The Complete 2021 Web Development Bootcamp Lecture 25. HTML Forms : input type
-
+<p><b>20210126</b></p>
+<p><b>31.</b> The Complete 2021 Web Development Bootcamp Lecture 26. Forms in Practice - Create a Contact Me Form
   
 <p><h1>&lt;What is going on&gt;</h1></p>
 <br />
