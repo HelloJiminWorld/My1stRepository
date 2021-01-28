@@ -53,10 +53,12 @@
 On Windows: Method 1: Access Emoji in Windows 10 Using On-Screen Keyboard, Method 2: Access Emoji in Windows 10 Using Keyboard Shortcut WIN + ; </p>
 <p><b>20210125</b></p>
 <p><b>30.</b> The Complete 2021 Web Development Bootcamp Lecture 24. HTML Tables Solution Walkthrough
-<p><b>20210126</b></p>
+<p><b>20210127</b></p>
 <p><b>31.</b> The Complete 2021 Web Development Bootcamp Lecture 25. HTML Forms : input type
 <p><b>20210126</b></p>
-<p><b>31.</b> The Complete 2021 Web Development Bootcamp Lecture 26. Forms in Practice - Create a Contact Me Form
+<p><b>32.</b> The Complete 2021 Web Development Bootcamp Lecture 26. Forms in Practice - Create a Contact Me Form
+<p><b>20210128</b></p> 
+<p><b>33.</b> finished Section 3:Intermediate HTML
   
 <p><h1>&lt;What is going on&gt;</h1></p>
 <br />
@@ -74,7 +76,7 @@ On Windows: Method 1: Access Emoji in Windows 10 Using On-Screen Keyboard, Metho
 <p><b>20210113</b></p>
 <p>done_<b>7.</b> I need to download Atom. Still downloading. Somehow internet speed is 130 Mbps so I'm going to sleep now first. The Complete 2021 Web Development Bootcamp aka CWB lecture 8 2:22
 <p><b>20210117</b></p>
-<p><b>8.</b> Let's watch at least 1 around of both HTML lectures on Udemy and try to structure website!
+<p>done_<b>8.</b> Let's watch at least 1 around of both HTML lectures on Udemy and try to structure website!
 <p><b>20210118</b></p>
 <p>done_<b>9.</b> Let's read to increase back ground knowledge https://developer.mozilla.org/ko/docs/Web/HTML/Element/strong
 <p><b>20210122</b></p> 
