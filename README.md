@@ -59,7 +59,10 @@ On Windows: Method 1: Access Emoji in Windows 10 Using On-Screen Keyboard, Metho
 <p><b>32.</b> The Complete 2021 Web Development Bootcamp Lecture 26. Forms in Practice - Create a Contact Me Form
 <p><b>20210128</b></p> 
 <p><b>33.</b> finished Section 3:Intermediate HTML
+<p><b>20210129</b></p>   
 <p><b>34.</b> Section 4:Introduction to CSS / 30. Introduction to CSS
+<p><b>20210130</b></p>   
+<p><b>35.</b> The Web Developer Bootcamp 2021 / 34. Block vs. Inline Elements - Divs and Spans
   
 <p><h1>&lt;What is going on&gt;</h1></p>
 <br />
