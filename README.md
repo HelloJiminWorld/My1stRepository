@@ -63,6 +63,9 @@ On Windows: Method 1: Access Emoji in Windows 10 Using On-Screen Keyboard, Metho
 <p><b>34.</b> Section 4:Introduction to CSS / 30. Introduction to CSS
 <p><b>20210130</b></p>   
 <p><b>35.</b> The Web Developer Bootcamp 2021 / 34. Block vs. Inline Elements - Divs and Spans
+<p><b>20210131</b></p>   
+<p><b>36.</b> The Web Developer Bootcamp 2021 / 35. An Odd Assortment of Elements: HR, BR, Sup, & Sub
+
   
 <p><h1>&lt;What is going on&gt;</h1></p>
 <br />
