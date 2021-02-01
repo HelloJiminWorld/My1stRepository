@@ -65,6 +65,8 @@ On Windows: Method 1: Access Emoji in Windows 10 Using On-Screen Keyboard, Metho
 <p><b>35.</b> The Web Developer Bootcamp 2021 / 34. Block vs. Inline Elements - Divs and Spans
 <p><b>20210131</b></p>   
 <p><b>36.</b> The Web Developer Bootcamp 2021 / 35. An Odd Assortment of Elements: HR, BR, Sup, & Sub
+<p><b>20210201</b></p>    
+<p><b>37.</b> The Web Developer Bootcamp 2021 / 36. Entity Codes
 
   
 <p><h1>&lt;What is going on&gt;</h1></p>
