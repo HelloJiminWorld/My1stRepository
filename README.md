@@ -69,6 +69,9 @@ On Windows: Method 1: Access Emoji in Windows 10 Using On-Screen Keyboard, Metho
 <p><b>37.</b> The Web Developer Bootcamp 2021 / 36. Entity Codes
 <p><b>20210202</b></p>      
 <p><b>38.</b> he Web Developer Bootcamp 2021 / 코딩 연습 4: Snowman Logo Exercise
+<!DOCTYPE html>
+<h1>&#9731;Snowman Productions Seaturtle<sup>&#174;</sup></h1>
+
 
   
 <p><h1>&lt;What is going on&gt;</h1></p>
